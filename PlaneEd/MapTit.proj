@@ -1,0 +1,10 @@
+Palette File: sourcecode/pallet/title.bin
+Mapping File: sourcecode/mapeni/titlescr.bin
+Art File: sourcecode/artnem/titlefor.bin
+Mapping Compression: Enigma
+Art Compression: Nemesis
+Palette Offset: 0x20
+Palette Length: 0x20
+x-Size: 40
+y-Size: 30
+Tile Offset: 0x01
